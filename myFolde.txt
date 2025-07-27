@@ -1,3 +1,19 @@
 this is my file
 asdfasfa
 54464
+
+for to add origin GitHub
+git remote add origin https://github.com/shariqueAzam-61/githubJava61.git
+for confirmation
+git remote -v
+then push to GitHub
+git push -u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 244 bytes | 122.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/shariqueAzam-61/githubJava61.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
